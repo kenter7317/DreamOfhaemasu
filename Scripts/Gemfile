@@ -1,0 +1,6 @@
+source 'http://rubygems.org'
+
+# Specify your gem's dependencies in gemcopy.gemspec
+gemspec
+
+gem 'rpg-maker-rgss3'
