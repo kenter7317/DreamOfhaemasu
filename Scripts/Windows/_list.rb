@@ -1,6 +1,7 @@
 Window_Base
 Window_Selectable
 Window_Command
+Window_Custom
 Window_HorzCommand
 Window_Help
 Window_Gold
