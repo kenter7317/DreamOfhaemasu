@@ -12,7 +12,7 @@ class Window_Custom < Window_Base
     @@width = @@width - 5
     @@height = @@height - 5
     draw_text(@@x, @@y, @@width, @@height, message)
-    wait waitt
+    wait(waitt)
   end
 
   def wait(duration)

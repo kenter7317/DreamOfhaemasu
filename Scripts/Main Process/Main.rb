@@ -4,5 +4,5 @@
 #------------------------------------------------------------------------------
 #  This processing is executed after module and class definition is finished.
 #==============================================================================
-
+msgbox("이 게임은 비영리로 제작되었으며 오픈소스입니다.")
 rgss_main { SceneManager.run }

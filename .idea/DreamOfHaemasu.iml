@@ -11,8 +11,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.9.2, ruby-1.9.2-p0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rake (v10.5.0, ruby-1.9.2-p0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rpg-maker-rgss3 (v1.02.0, ruby-1.9.2-p0) [gem]" level="application" />
   </component>
 </module>
